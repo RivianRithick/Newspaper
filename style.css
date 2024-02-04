@@ -1,0 +1,12 @@
+.header{
+    padding: 0px 40px; 
+    font-family: 'Times New Roman', Times, serif
+}
+.header img{
+    margin: 10px
+}
+.sun{
+    font-size: 8vw;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
